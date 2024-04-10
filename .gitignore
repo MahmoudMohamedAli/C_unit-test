@@ -1,0 +1,7 @@
+# ignore all theis extensions
+*.vscode
+*.zip
+*.exe
+*.o
+*.d
+*.a
